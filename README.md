@@ -1,5 +1,5 @@
 # desafio-dio-mysql
-Como modelar um banco de controle de séries assistidas
+Modelar um banco de controle de séries assistidas
 
 # Instruções de uso
 
